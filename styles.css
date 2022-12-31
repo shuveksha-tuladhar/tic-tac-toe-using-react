@@ -1,14 +1,18 @@
 button {
-  background-color: #0c80f3;
-  border: 6px solid #0ff166;
+  background-color: #CEEDC7;
+  border: 6px solid #86C8BC;
   border-radius: 10px;
+}
+
+h1{
+  text-align: center;
 }
 
 .game-board {
   width: 600px;
   height: 600px;
   margin: 0 auto;
-  background-color: #34495e;
+  background-color: #FFEFD6;
   color: rgb(204, 28, 28);
   border: 6px solid #0b0d0f;
   border-radius: 10px;
@@ -43,5 +47,5 @@ button {
 }
 
 .white {
-  color: white;
+  color: #2B3A55;
 }
